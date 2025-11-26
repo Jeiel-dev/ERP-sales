@@ -1,0 +1,5 @@
+{
+  "name": "ERP Sales",
+  "description": "Sistema completo de gestão de vendas com perfis de Gerente, Vendedor e Caixa, controle de estoque e relatórios.",
+  "requestFramePermissions": []
+}
